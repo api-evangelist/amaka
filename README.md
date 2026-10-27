@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Amaka is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://amaka.com/
+Amaka provides accounting integrations and business automation tools, leveraging AI to import bills, reconcile accounts, and connect e‑commerce platforms with major accounting software such as Xero, QuickBooks, Sage, and MYOB. Serving over 65,000 small businesses globally, Amaka offers a free core tier and premium plans with advanced automation, AI‑driven bookkeeping, and dedicated support.
+
+**Areas:** Company · Accounting · Automation · AI · Integration
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://amaka.com/)
+- [Documentation](https://amaka.com/help)
+- [API reference](https://amaka.com/help)
+- [Pricing](https://amaka.com/pricing)
+- [Support](https://amaka.com/help-desk)
+- [Blog](https://amaka.com/blog)
+- [Terms of service](https://amaka.com/terms-conditions)
+- [Privacy policy](https://amaka.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/amaka/](https://apis.io/providers/amaka/).
